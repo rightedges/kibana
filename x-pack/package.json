@@ -180,7 +180,8 @@
     "vinyl-fs": "^3.0.3",
     "whatwg-fetch": "^3.0.0",
     "xml-crypto": "^1.4.0",
-    "yargs": "4.8.1"
+    "yargs": "4.8.1",
+    "react-stockcharts": "^0.7.6"
   },
   "dependencies": {
     "@babel/core": "^7.9.0",
@@ -367,7 +368,8 @@
     "webpack": "^4.41.5",
     "wellknown": "^0.5.0",
     "xml2js": "^0.4.22",
-    "xregexp": "4.2.4"
+    "xregexp": "4.2.4",
+    "react-stockcharts": "^0.7.6"
   },
   "engines": {
     "yarn": "^1.21.1"
